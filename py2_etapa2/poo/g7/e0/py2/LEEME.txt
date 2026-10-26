@@ -1,0 +1,9 @@
+PROYECTO ETAPA 2 - Simulador de Sistema Hospitalario (POO, Grupo 7)
+
+COMPILAR (desde esta carpeta, en la terminal de VS Code):
+  javac -encoding UTF-8 -d out -sourcepath src test\PruebaHospital.java
+
+EJECUTAR:
+  java -cp out PruebaHospital
+
+Si en la consola los acentos salen raros, escribe antes:  chcp 65001
